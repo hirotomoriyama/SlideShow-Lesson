@@ -1,7 +1,7 @@
 $(".theTarget").skippr({
-  transition:'fade',
+  transition:'slide',
   speed:1000,
-  easing:'easeOutQuart',
+  easing:'easeInOutQuart',
   navType:'block',
   childrenElementType:'div',
   arrows:true,
